@@ -47,7 +47,7 @@ mercantile==1.1.2
 mistune==0.8.4
 more-itertools==4.3.0
 munch==2.3.2
-nbconvert==5.6.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
